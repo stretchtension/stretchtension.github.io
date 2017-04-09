@@ -521,6 +521,10 @@
 
 /* Icon */
 
+    a:hover {
+        text-decoration: none;
+    }
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
