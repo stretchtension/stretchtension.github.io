@@ -148,6 +148,10 @@
 
 /* BG */
 
+	.wrapper {
+	  text-align: center;
+	}
+
 	#bg {
 		-moz-transition: opacity 2s ease-in-out;
 		-webkit-transition: opacity 2s ease-in-out;
